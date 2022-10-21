@@ -4,7 +4,7 @@
 @author: tx
 @file: live_stream.py
 @time: 2022/9/29 1:36 PM
-@desc:
+@desc: 测试树莓派是否开启摄像头
 """
 from flask import Flask, Response
 from picamera.array import PiRGBArray
